@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+If you like the idea of reading books about innovative ideas, you are in the right place.
 <!--
 
 **Here are some ideas to get you started:**
