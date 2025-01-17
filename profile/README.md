@@ -4,6 +4,7 @@ If you like the idea of reading books about innovative ideas, you are in the rig
 
 **Here be 'd sekwence:**
 
-🙋‍♀️ AQ - letter
-🌈 CN - null
-🧙 QN - tnull
+* 🙋‍♀️ AQ - letter
+* 🌈 CN - null
+* 🧙 QN - tnull
+* Beauty, eh?
