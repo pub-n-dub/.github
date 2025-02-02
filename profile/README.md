@@ -18,4 +18,4 @@ My freely-available publications.
 
 **Criteria disclosure**
 
-In regards to my science-fiction fantasy, as to regarding these outputs, has been between the extremes of Asimnov's _The Complete Robot_ and Dick's _AutoFac_.
+My science-fiction fantasy relative to these outputs has lain between the extremes of Asimnov's _The Complete Robot_ and Dick's _AutoFac_.
