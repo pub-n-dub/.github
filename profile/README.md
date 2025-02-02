@@ -19,5 +19,6 @@ My freely-available publications.
 **Criteria disclosure**
 
 * My science-fiction fantasy relative to these outputs has lain between the extremes of Asimnov's _The Complete Robot_ and Dick's _AutoFac_.
-* Because of this, my motivations are more toward individual sovergnity rather than civilizational strifes such as _Foundation_ and _Stranger in a Strange Land_.
-* The philosophical drive stems from the Byzantine spectrum - Kant through Schoepenhauer with the logical pragmatism of Peirce.  
+* Because of this, my motivations are more toward individual sovereignty rather than civilizational strife such as _Foundation_ and _Stranger in a Strange Land_.
+* The philosophical drive stems from the Byzantine spectrum - Kant through Schopenhauer with the logical pragmatism of Peirce.
+  
