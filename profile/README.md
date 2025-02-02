@@ -15,3 +15,7 @@ My freely-available publications.
 * Contactless power transmission for NFC antennas in credit-card size format - 2017 [here](/profile/Tucker-2017.pdf)
 * Power transfer in velocity-vortex acceleration - 2014 [here](/profile/Tucker-2014.pdf)
 * Efficient wireless power delivery for biomedical implants - 2012 [here](/profile/Tucker-2012.pdf)
+
+**Criteria disclosure**
+
+In regards to my science-fiction fantasy, as to regarding these outputs, has been between the extremes of Asimnov's _The Complete Robot_ and Dick's _AutoFac_.
