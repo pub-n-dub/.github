@@ -1,4 +1,4 @@
-## Hello 👋
+## Ahoi 👋
 
 This organization contains my publications on a unified topic of some complexity.
 
