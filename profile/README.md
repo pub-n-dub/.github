@@ -22,13 +22,13 @@ My freely-available publications.
 * The evolution of advancing technology and our human place within it. Book format.
     - The Monkey and the Master - 2023 [[here](/profile/The-Monkey-and-the-Master.pdf)]
 * A deep-dive into the physics of wireless power including a tutorial how to make your own under $5. Book format.
-    - Wireless power by magnetic resonance - 2014 [here](/profile/978-3-639-66868-1.pdf)
+    - Wireless power by magnetic resonance - 2014 [[here](/profile/978-3-639-66868-1.pdf)]
 * A technical description of NFC power transmission. Now used in all forms of transport where you check-in. Paper format.
-    - Contactless power transmission for NFC antennas in credit-card size format - 2017 [here](/profile/Tucker-2017.pdf)
+    - Contactless power transmission for NFC antennas in credit-card size format - 2017 [[here](/profile/Tucker-2017.pdf)]
 * An advanced discussion of where wireless power can take us. Paper format.
-    - Power transfer in velocity-vortex acceleration - 2014 [here](/profile/Tucker-2014.pdf)
+    - Power transfer in velocity-vortex acceleration - 2014 [[here](/profile/Tucker-2014.pdf)]
 * A discussion of angled-power transmission and frequency description compatible with humans. Paper format.
-    - Efficient wireless power delivery for biomedical implants - 2012 [here](/profile/Tucker-2012.pdf)
+    - Efficient wireless power delivery for biomedical implants - 2012 [[here](/profile/Tucker-2012.pdf)]
 
 **Criteria disclosure**
 
