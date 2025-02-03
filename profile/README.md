@@ -2,7 +2,7 @@
 
 This organization contains my publications on a unified topic of some complexity where I am drawing an inevitable conclusion:
 
-* Ppower and information are directly correlated in living systems according to time,
+* Power and information are directly correlated in living systems according to time,
 * This is a stark point missed by my academic ancestors,
 * The _only_ way to have machine-life that is comparable to biological life is to:
     - It _must_ be embodied,
