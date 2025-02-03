@@ -18,9 +18,9 @@ While I have been working on this topic, I have discovered that the path is not 
 My freely-available publications.
 
 * My manifesto of artificial life. Paper format.
-    - The method of artificial systems - 2008 [here](/profile/Tucker-2008.pdf)
+    - The method of artificial systems - 2008 [[here](/profile/Tucker-2008.pdf)]
 * The evolution of advancing technology and our human place within it. Book format.
-    - The Monkey and the Master - 2023 [here](/profile/The-Monkey-and-the-Master.pdf)
+    - The Monkey and the Master - 2023 [[here](/profile/The-Monkey-and-the-Master.pdf)]
 * A deep-dive into the physics of wireless power including a tutorial how to make your own under $5. Book format.
     - Wireless power by magnetic resonance - 2014 [here](/profile/978-3-639-66868-1.pdf)
 * A technical description of NFC power transmission. Now used in all forms of transport where you check-in. Paper format.
