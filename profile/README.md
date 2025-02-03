@@ -27,7 +27,7 @@ My freely-available publications.
     - Contactless power transmission for NFC antennas in credit-card size format - 2017 [here](/profile/Tucker-2017.pdf)
 * An advanced discussion of where wireless power can take us. Paper format.
     - Power transfer in velocity-vortex acceleration - 2014 [here](/profile/Tucker-2014.pdf)
-* A discussion of angled-power transmission and frequency description such that it is possible to be implanted in humans. Paper format.
+* A discussion of angled-power transmission and frequency description compatible with humans. Paper format.
     - Efficient wireless power delivery for biomedical implants - 2012 [here](/profile/Tucker-2012.pdf)
 
 **Criteria disclosure**
