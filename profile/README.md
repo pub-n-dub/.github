@@ -1,4 +1,6 @@
-## Ahoi 👋
+## Hello 
+
+![me](/profile/me-wirelesspower-mini.jpg)
 
 This organization contains my publications on a unified topic of some complexity where I am drawing an inevitable conclusion:
 
