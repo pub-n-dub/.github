@@ -1,6 +1,6 @@
 ## Welcome to my world 
 
-![me](/profile/me-wirelesspower-mini.jpg)
+![me](/profile/profile-v2.png)
 
 This organization contains my publications on a unified topic of some complexity where I am drawing an inevitable conclusion:
 
